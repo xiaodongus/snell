@@ -8,7 +8,7 @@
 
 ```
 
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/caorun0728/snell/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
