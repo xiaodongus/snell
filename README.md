@@ -2,10 +2,14 @@
 
 Source：[@primovist](https://github.com/primovist/snell.sh)
 
-Cent os
+CentOS 7.X
 
-## update
+## Update
+
  2019-02-20 Fix Bug
+
+
+## Install
 
 
 ```
