@@ -1,9 +1,11 @@
 ## README
 
-脚本最早来源：[@primovist](https://github.com/primovist/snell.sh)
+Source：[@primovist](https://github.com/primovist/snell.sh)
 
-适用于centos系统
+Cent os
 
+## update
+ 2019-02-20 Fix Bug
 
 
 ```
