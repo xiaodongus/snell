@@ -16,7 +16,7 @@ CentOS 7.X
 
 ```
 
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/caorun0728/snell/master/snell.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/xiaodongus/snell/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
